@@ -1,11 +1,8 @@
-# DropKitchn
 
 <div align="center">
-  <img src="public/logo.png" alt="DropKitchn Logo" width="180"/>
-  <br>
+  <img src="public/banner.png" alt="DropKitchn Logo" width="180"/>
   <h3>Fixing someone else's kitchen.</h3>
-  <a href="https://dropkitchn.com"><strong>dropkitchn.com »</strong></a>
-  <br><br>
+  <a href="https://dropkitchn.com">dropkitchn.com</a>
 </div>
 
 ---
