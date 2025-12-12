@@ -1,29 +1,23 @@
 
 <div align="center">
   <img src="public/banner.png" alt="DropKitchn Logo"/>
-  <h3>Fixing someone else's kitchen.</h3>
-  <a href="https://dropkitchn.com">dropkitchn.com</a>
 </div>
-
----
 
 ## 👋 What is this?
 
-**DropKitchn** is a logistics experiment born from a simple question: **Why do nice vacation rentals always have terrible knives?**
+We love traveling and cooking meals with family and friends, only to find a single dull IKEA knife and a scratched-up Teflon pan in your rental.
 
-We love traveling and we love cooking meals with friends, but we're tired of ruining expensive local ingredients because the "luxury" rental only had a dull IKEA knife and a scratched-up Teflon pan.
-
-We're building a system to ship professional-grade cooking gear directly to rentals, so you don't have to check a bag full of kitchen tools just to make Thanksgiving dinner.
+We're building a system to ship professional-grade cooking gear directly to rentals, so you don't have to lug a bag of kitchen tools or run to Target just to make a decent meal.
 
 ## 🛑 The Problem
 
 If you've stayed in a short term rental you know the struggle:
-* Every drawer contains six ladels, 14 wine screws and not a single bread knife.
+* Inventory the kitchen on arrival only to find six ladels, 14 wine screws and not a single bread knife.
 * The knives are dangerously dull.
 * The pans are warped or peeling.
-* You spend half your vacation trying to figure out if they own a can opener.
+* You spend half your vacation trying to figure out if they own a can-opener.
 
-It forces you to choose: **Pack your own gear** :rage: or **deal with it** :disappointed:.
+ **Pack your own gear** :rage: or **deal with it** :disappointed:.
 
 ## ⚡ The Experiment
 
