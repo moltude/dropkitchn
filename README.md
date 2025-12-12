@@ -21,14 +21,10 @@ If you've stayed in a short term rental you know the struggle:
 
 ## ⚡ The Experiment
 
-We're testing a real kitchen kit for the vacation cook. We drop a bomb-proof case on the doorstep containing exactly what you need to actually perform in the kitchen.
+We're testing a vacation kitchen kit for the people who cook.
 
-**The "Golden Kit" (Current Alpha Build):**
+**Current Alpha Build**
 * 📦 **The Box:** Lockable, shippable, indestructible.
-* 🔪 **The Steel:** Professional knives (Chef, Serrated, Paring). Sharp enough to shave with.
-* 🍳 **The Pan:**  Metal-utensil safe and non-stick.
+* 🔪 **The Steel:** Professional knives (Chef, Serrated, Paring).
+* 🍳 **The Pan:**  Premium nonstick fry pan
 * 🧼 **The Promise:** It shows up clean, sharp, and ready to go.
-
-## 📂 What's in this Repo?
-
-This is where we are documenting the build, the logic, and the digital side of this physical experiment.
