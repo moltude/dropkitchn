@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="public/banner.png" alt="DropKitchn Logo" width="180"/>
+  <img src="public/banner.png" alt="DropKitchn Logo"/>
   <h3>Fixing someone else's kitchen.</h3>
   <a href="https://dropkitchn.com">dropkitchn.com</a>
 </div>
